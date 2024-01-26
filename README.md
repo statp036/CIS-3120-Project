@@ -1,3 +1,4 @@
+# CIS 3120 Project
 The goal of this project is to import data from an online source and process the data using various python libraries. You will design and implement a program that allows the user to enter a ticker symbol and perform a regression analysis of that asset against the S&P 500 to determine if there is any correlation. Submit the final project as a single Jupyter notebook file (.ipynb).
 Collecting Data
 Allow the user to enter a ticker symbol. Verify there is data available to import from Nasdaq Data Link or Alpha Vantage (You may need to instruct the user on how the symbol should be input so the appropriate data is returned)
